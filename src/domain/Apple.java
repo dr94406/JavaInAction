@@ -5,6 +5,16 @@ public class Apple {
 
     private int color;
 
+    public Apple(Integer integer) {
+    }
+
+    public Apple() {
+    }
+
+    public Apple(Color color, Integer integer) {
+
+    }
+
     public int getWeight() {
         return weight;
     }

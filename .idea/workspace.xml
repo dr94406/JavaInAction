@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3626291-593a-4872-b2a2-34a4ea5d6de3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInAction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/ActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/AppleFancyFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/AppleFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/AppleGreenColorPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/AppleHeavyWeightPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/ApplePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/AppleRedAndHeavyPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/AppleSimpleFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/BufferedReaderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Callable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/PrivilegedAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698471400920</updated>
-      <workItem from="1698471402098" duration="5593000" />
+      <workItem from="1698471402098" duration="8506000" />
     </task>
     <servers />
   </component>
