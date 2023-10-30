@@ -39,5 +39,22 @@ public class StreamEx {
                 .map(Dish::getName)
                 .collect(toList());
 
+        List<String> named =
+            menu.stream()
+                    .filter(dish -> {
+                        System.out.println("filtering: " + dish.getName());
+                        return dish.getCalories() > 300;
+                })
+                    .map(dish -> {
+                        System.out.println("mapping:" + dish.getName());
+                        return dish.getName();
+                    })
+                    .limit(3)
+                    .collect(toList());
+        List<Integer> numbers = Arrays.asList(1, 2, 1, 3, 3, 2, 4);
+        numbers.stream()
+                .filter(i -> i % 2 == 0)
+                .distinct()
+                .forEach(System.out::println);
     }
 }

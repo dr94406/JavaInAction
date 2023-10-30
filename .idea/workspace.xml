@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3626291-593a-4872-b2a2-34a4ea5d6de3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/StreamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/iteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/StreamSlicing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/StreamEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/StreamEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/iteration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1698471400920</updated>
       <workItem from="1698471402098" duration="9283000" />
-      <workItem from="1698588550745" duration="1451000" />
+      <workItem from="1698588550745" duration="2075000" />
+      <workItem from="1698670486738" duration="1854000" />
     </task>
     <servers />
   </component>
