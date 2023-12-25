@@ -28,6 +28,7 @@ public class StreamEx {
                     .limit(3)
                     .collect(toList());
 
+        System.out.println(threeHighCaloricDishNames);
         /** Collection : external iteration **/
         List<String> names = new ArrayList<>();
         for(Dish dish : menu) {
