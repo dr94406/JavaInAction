@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3626291-593a-4872-b2a2-34a4ea5d6de3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/NumbersDoubleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/NumbersMultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/StreamIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/filterpredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/finalOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/intermediateOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/mapAndArraysStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/numberFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/takeAdvantageOfStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AppleGreenColorPredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/StreamEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/StreamEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="domain" />
       <recent name="Iterable" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -76,7 +66,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.takeAdvantageOfStreams">
+  <component name="RunManager" selected="애플리케이션.filterpredicate">
     <configuration name="NumbersDoubleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="domain.NumbersDoubleList" />
       <module name="JavaInAction" />
@@ -142,15 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.takeAdvantageOfStreams" />
-        <item itemvalue="Application.filterpredicate" />
-        <item itemvalue="Application.NumbersDoubleList" />
-        <item itemvalue="Application.NumbersMultiple" />
-        <item itemvalue="Application.StringLength" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -166,11 +147,25 @@
       <workItem from="1702801797210" duration="751000" />
       <workItem from="1703492209297" duration="1107000" />
       <workItem from="1703495118235" duration="3801000" />
-      <workItem from="1703510180543" duration="1019000" />
+      <workItem from="1703510180543" duration="1069000" />
+      <workItem from="1703602327401" duration="848000" />
+      <workItem from="1704282447936" duration="449000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 함수형 데이터 처리 스트림 활용">
+      <created>1703511249269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703511249269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 함수형 데이터 처리 스트림 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 함수형 데이터 처리 스트림 활용" />
   </component>
 </project>
